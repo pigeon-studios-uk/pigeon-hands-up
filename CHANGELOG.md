@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-08
+
 First release.
 
 ### Highlights
@@ -30,4 +32,5 @@ First release.
 - Messages and key binding names in 23 languages, following ox_lib's language with `Config.Locale = 'auto'`.
 - Update checker from the Pigeon Studios version registry.
 
-[Unreleased]: https://github.com/pigeon-studios-uk/pigeon-hands-up/commits/main
+[Unreleased]: https://github.com/pigeon-studios-uk/pigeon-hands-up/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/pigeon-studios-uk/pigeon-hands-up/releases/tag/v1.0.0
